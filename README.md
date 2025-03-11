@@ -1,1 +1,1 @@
-# CS334-Machine-learning
+# CS334-Machine learning
